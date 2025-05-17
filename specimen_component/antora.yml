@@ -1,0 +1,5 @@
+name: specimen_component
+version: '0.1'
+title: Antora Specimen
+nav:
+  - modules/ROOT/nav.adoc 

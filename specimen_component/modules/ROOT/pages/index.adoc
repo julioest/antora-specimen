@@ -1,0 +1,11 @@
+= Antora Specimen Page
+
+This is a sample page for the Boostlook Antora preview.
+
+xref:page-b.adoc[Link to Page B]
+
+== A Section
+
+Some content under a section.
+
+include::../partials/_my_partial.adoc[] 
