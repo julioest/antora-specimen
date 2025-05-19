@@ -8,4 +8,4 @@ xref:page-b.adoc[Link to Page B]
 
 Some content under a section.
 
-include::../partials/_my_partial.adoc[] 
+include::../partials/_my_partial.adoc[]

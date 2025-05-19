@@ -2,4 +2,4 @@
 
 This is another page in the Antora specimen.
 
-xref:index.adoc[Back to Home] 
+xref:index.adoc[Back to Home]

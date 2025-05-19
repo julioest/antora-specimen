@@ -1,2 +1,2 @@
 * xref:index.adoc[Home]
-* xref:page-b.adoc[Page B] 
+* xref:page-b.adoc[Page B]

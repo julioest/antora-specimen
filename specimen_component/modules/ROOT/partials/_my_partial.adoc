@@ -1,2 +1,2 @@
 .Partial Title
-This is content included from a partial file. 
+This is content included from a partial file.
