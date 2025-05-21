@@ -1,5 +1,5 @@
 = Page B
 
-This is another page in the Antora specimen.!!!
+This is an example of a page in the component.
 
 xref:index.adoc[Back to Home]
