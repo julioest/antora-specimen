@@ -1,5 +1,5 @@
 = Page B
 
-This is an example of a page in the component.
+This is a NEW CHANGE to test caching.
 
 xref:index.adoc[Back to Home]
