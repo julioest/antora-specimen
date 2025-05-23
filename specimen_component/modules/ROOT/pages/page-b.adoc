@@ -1,5 +1,0 @@
-= Page B
-
-This is a LOCAL COMMIT test. No push needed.
-
-xref:index.adoc[Back to Home]
